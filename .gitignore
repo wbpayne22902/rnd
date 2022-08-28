@@ -31,3 +31,7 @@
 *.out
 *.app
 rnd
+rnd.ilk
+rnd.pdb
+vc140.pdb
+.vscode/*
